@@ -53,4 +53,49 @@ A well-designed booking system reduces friction in the user journey, increases c
   </li>
 </ul>
 
+# Project Roles and Responsibilities
+<ul>
+  <li><b>Project Manager:</b> Oversees timeline, coordinates team, manages deliverables</li>
+  <li><b>Frontend Developers:</b> Implements UI components, ensures responsive design</li>
+  <li><b>Backend Developers:</b> Builds APIs, manages database, implements business logic</li>
+  <li><b>Designers:</b> Creates mockups, maintains design system, ensures UX quality</li>
+  <li><b>QA/Testers:</b> Writes test cases, performs testing, reports bugs</li>
+  <li><b>DevOps Engineers:</b> Manages deployment, CI/CD pipeline, server infrastructure</li>
+  <li><b>Product Owner:</b> Defines requirements, prioritizes features, represents stakeholders</li>
+  <li><b>Scrum Master:</b> Facilitates agile processes, removes blockers, organizes meetings</li>
+</ul>
+
+# UI Component Patterns
+
+<ol>
+  <li>
+    Navbar
+    <ul>
+      <li>Logo</li>
+      <li>Search bar</li>
+      <li>User navigation</li>
+      <li>Responsive menu</li>
+    </ul>
+  </li>
+  <li>
+    Property Card
+    <ul>
+      <li>Property image</li>
+      <li>Basic details(Price, Location, Rating) </li>
+      <li>Favorite button</li>
+      <li>Responsive layout</li>
+    </ul>
+  </li>
+  <li>
+    Footer
+    <ul>
+      <li>Site links</li>
+      <li>Company information</li>
+      <li>Social media links</li>
+      <li>Copyright information</li>
+    </ul>
+  </li>
+</ol>
+
+
 
